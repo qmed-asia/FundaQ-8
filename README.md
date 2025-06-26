@@ -1,5 +1,7 @@
 # FundaQ-8
 
+> **Note**: The FundaQ-8 framework has been accepted for publication in the *2025 7th IEEE Symposium on Computers & Informatics (ISCI2025)*. The related article is available on arXiv: [https://arxiv.org/abs/2506.20303](https://arxiv.org/abs/2506.20303).
+
 ## Introduction
 
 **FundaQ-8** is a deep learning-based solution for assessing the quality of fundus images. It utilizes a ResNet18 regression model to predict a continuous quality score (from 0 to 1) based on a novel, expert-validated framework. This framework is designed to systematically evaluate fundus image quality across eight critical parameters, including field coverage, anatomical visibility, and others.
