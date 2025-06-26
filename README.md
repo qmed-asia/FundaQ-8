@@ -1,6 +1,6 @@
 # FundaQ-8
 
-> **Note**: The FundaQ-8 framework has been accepted for publication in the *2025 7th IEEE Symposium on Computers & Informatics (ISCI2025)*. The related article is available on arXiv: [https://arxiv.org/abs/2506.20303](https://arxiv.org/abs/2506.20303).
+> **Note**: The FundaQ-8 framework has been accepted for publication in the *2025 7th IEEE Symposium on Computers & Informatics (ISCI2025)*. The related article **FundaQ-8: A Clinically-Inspired Scoring Framework for Automated Fundus Image Quality Assessment** is available on arXiv: [https://arxiv.org/abs/2506.20303](https://arxiv.org/abs/2506.20303).
 
 ## Introduction
 
