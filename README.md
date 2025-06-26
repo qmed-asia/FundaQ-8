@@ -19,7 +19,7 @@ This repository provides the complete code for the project, including Jupyter no
 
 ## Pretrained Model & Demo
 
-A pretrained version of the FundaQ-8 model is available on Hugging Face, where you can also find a live demo built with Streamlit.
+A pretrained version of the FundaQ-8 model is available on Hugging Face, where you can also find a live demo built with Streamlit(*Click the link provided and navigate to the App tab*).
 
 - **Hugging Face Space**: [FundaQ8](https://huggingface.co/spaces/qizunlee/FundaQ8/tree/main)
 - **Pretrained Model**: You can download the `image_quality_grader.pth` file directly from the Hugging Face repository.
