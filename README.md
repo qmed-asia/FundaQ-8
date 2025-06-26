@@ -19,6 +19,25 @@ This repository provides the complete code for the project, including Jupyter no
 
 ---
 
+## FundaQ-8 Scoring Framework
+
+The FundaQ-8 framework provides a structured method for assessing fundus image quality across eight critical parameters. Each parameter is scored on a 0-2 scale, and the total score is normalized to a continuous value between 0 and 1. This approach ensures a comprehensive and objective evaluation of image quality.
+
+![FundaQ-8 Scoring Framework](FundaQ-8%20Scoring%20Framework.jpg)
+
+The eight parameters are:
+
+1.  **Resolution (Blurry)**: Assesses the sharpness and clarity of the image.
+2.  **Field of View (Coverage)**: Evaluates the extent of the retinal area captured.
+3.  **Color Fidelity**: Checks for natural color representation without discoloration.
+4.  **Presence of Artifacts**: Identifies any artifacts like glare, dust, or smudges that may obscure details.
+5.  **Vessels**: Rates the visibility and clarity of the retinal blood vessels.
+6.  **Macula**: Assesses the visibility and definition of the macula.
+7.  **Optic Disc**: Evaluates the clarity and sharpness of the optic disc.
+8.  **Optic Cup**: Rates the visibility and definition of the optic cup.
+
+---
+
 ## Pretrained Model & Demo
 
 A pretrained version of the FundaQ-8 model is available on Hugging Face, where you can also find a live demo built with Streamlit(*Click the link provided and navigate to the App tab*).
