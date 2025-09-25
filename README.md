@@ -2,8 +2,8 @@
 
 > **Publication Status Update**: The **FundaQ-8** framework has been officially published!
 > 
-> * **Published Paper (ISCI 2025):** [FundaQ-8: A Clinically-Inspired Scoring Framework for Automated Fundus Image Quality Assessment](https://ieeexplore.ieee.org/document/11167629) 
-> * **Preprint (arXiv):** [2506.20303 FundaQ-8: A Clinically-Inspired Scoring Framework for Automated Fundus Image Quality Assessment] (https://arxiv.org/abs/2506.20303)
+> * **Published Paper (ISCI 2025):** [2025 IEEE Symposium on Computers & Informatics (ISCI)](https://ieeexplore.ieee.org/document/11167629) 
+> * **Preprint:** [arXiv] (https://arxiv.org/abs/2506.20303)
 
 
 ## Introduction
